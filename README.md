@@ -1,4 +1,4 @@
-# Scythe - Your All-in-One Discord Solution
+# Scythe Bot - Your All-in-One Discord Solution
 
 Scythe, the ultimate all-in-one solution for your Discord Bot needs.
 
